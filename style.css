@@ -1,0 +1,47 @@
+/* Header Styling */
+.header-container-privacy h2 {
+    background-color: #2B2D42;
+    color: white;
+    padding: 5px 8px;
+    text-align: left;
+    font-family: Roboto, sans-serif;
+}
+
+/* Subheading Styling */
+.privacy-subheading {
+    font-size: 18px;
+    margin: 10px 0 5px 0; /* Minimal spacing */
+    font-family: Roboto, sans-serif;
+    text-align: left;
+}
+
+/* Paragraph Styling */
+.privacy-text {
+    font-size: 18px;
+    line-height: 1.4; /* Reduced spacing */
+    margin: 0 0 10px 0; /* Remove extra spacing between lines */
+    font-family: Roboto, sans-serif;
+    text-align: left;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #2B2D42;
+    text-align: center;
+    padding: 20px;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+footer .footer-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer .footer-text {
+    margin-top: 10px;
+}
